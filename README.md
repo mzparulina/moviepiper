@@ -1,13 +1,8 @@
-#Popcorn time [![Dependency Status](https://david-dm.org/popcorn-time/popcorn-app.png?theme=shields.io)](https://david-dm.org/popcorn-time/popcorn-time)
-
-# [Goodbye](https://medium.com/p/93f890b8c9f4)
-**Update** *15 March 2014* : Sorry friends, but we removed issue tracking because it was being used to link elsewhere.
+#Movie Piper - a fork of popcorn-time
 
 ## Idea
 
 To allow any computer user to watch movies easily streaming from torrents, without any particular knowledge.
-
-![Demo Screenshot](http://getpopcornti.me/images/how-ui.png)
 
 ### Status
 
